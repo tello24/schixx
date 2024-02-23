@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @schixx
-- 👀 I’m interested in programation
-- 🌱 I’m currently learning js/py
-- 📫 How to reach me: email
+- 👀 I’m interested in software dev.
+- 📫 How to reach me: schixcontatox@gmail.com
 
 <!---
 schixx/schixx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
